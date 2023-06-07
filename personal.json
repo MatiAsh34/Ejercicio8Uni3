@@ -1,0 +1,179 @@
+{
+    "__class__":"Lista",
+    "personal":[
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+              "cuil": "111111111",
+              "apellido": "Gómez",
+              "nombre": "Ana",
+              "sueldo_basico": 45000,
+              "antiguedad": 2,
+              "carrera": "Matemáticas",
+              "cargo": "Profesor",
+              "catedra": "Álgebra",
+              "area": " ",
+              "tipo": " "
+            }
+          },
+          {
+            "__class__": "Docente",
+            "__atributos__": {
+              "cuil": "222222222",
+              "apellido": "Fernández",
+              "nombre": "Pedro",
+              "sueldo_basico": 48000,
+              "antiguedad": 4,
+              "carrera": "Literatura",
+              "cargo": "Profesor",
+              "catedra": "Poesía",
+              "area": " ",
+              "tipo": " "
+            }
+          },
+          {
+            "__class__": "Docente",
+            "__atributos__": {
+              "cuil": "333333333",
+              "apellido": "López",
+              "nombre": "María",
+              "sueldo_basico": 52000,
+              "antiguedad": 3,
+              "carrera": "Historia del Arte",
+              "cargo": "Profesor",
+              "catedra": "Arte Contemporáneo",
+              "area": " ",
+              "tipo": " "
+            }
+          },
+          {
+            "__class__": "Apoyo",
+            "__atributos__": {
+              "cuil": "444444444",
+              "apellido": "García",
+              "nombre": "Juan",
+              "sueldo_basico": 35000,
+              "antiguedad": 1,
+              "categoria": "Administrativo"
+            }
+          },
+          {
+            "__class__": "Apoyo",
+            "__atributos__": {
+              "cuil": "555555555",
+              "apellido": "Pérez",
+              "nombre": "Lucía",
+              "sueldo_basico": 38000,
+              "antiguedad": 2,
+              "categoria": "Administrativo"
+            }
+          },
+          {
+            "__class__": "Apoyo",
+            "__atributos__": {
+              "cuil": "666666666",
+              "apellido": "Martínez",
+              "nombre": "Carlos",
+              "sueldo_basico": 40000,
+              "antiguedad": 5,
+              "categoria": "Administrativo"
+            }
+          },
+          {
+            "__class__": "Investigador",
+            "__atributos__": {
+              "cuil": "777777777",
+              "apellido": "Sánchez",
+              "nombre": "Laura",
+              "sueldo_basico": 55000,
+              "antiguedad": 6,
+              "area": "Física",
+              "tipo": "Teórica",
+              "carrera": " ",
+              "cargo": " ",
+              "catedra": " "
+            }
+          },
+          {
+            "__class__": "Investigador",
+            "__atributos__": {
+              "cuil": "888888888",
+              "apellido": "González",
+              "nombre": "Daniel",
+              "sueldo_basico": 60000,
+              "antiguedad": 7,
+              "area": "Química",
+              "tipo": "Experimental",
+              "carrera": " ",
+              "cargo": " ",
+              "catedra": " "
+            }
+          },
+          {
+            "__class__": "Investigador",
+            "__atributos__": {
+              "cuil": "999999999",
+              "apellido": "López",
+              "nombre": "María",
+              "sueldo_basico": 58000,
+              "antiguedad": 4,
+              "area": "Biología",
+              "tipo": "Genética",
+              "carrera": " ",
+              "cargo": " ",
+              "catedra": " "
+            }
+          },
+          {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+              "cuil": "101010101",
+              "apellido": "Fernández",
+              "nombre": "Ana",
+              "sueldo_basico": 60000,
+              "antiguedad": 8,
+              "carrera": "Introduccion a la Química",
+              "cargo": "Profesor",
+              "catedra": "MacroQuimica",
+              "area": "Química",
+              "tipo": "Experimental",
+              "categoria": "III",
+              "importe": 3000
+            }
+          },
+          {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+              "cuil": "111111110",
+              "apellido": "Gómez",
+              "nombre": "Pedro",
+              "sueldo_basico": 55000,
+              "antiguedad": 5,
+              "carrera": "Psicología",
+              "cargo": "Profesor",
+              "catedra": "Psicología Social",
+              "area": "Psicología",
+              "tipo": "Cualitativa",
+              "categoria": "V",
+              "importe": 2500
+            }
+          },
+          {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+              "cuil": "121212121",
+              "apellido": "Rodríguez",
+              "nombre": "María",
+              "sueldo_basico": 58000,
+              "antiguedad": 6,
+              "carrera": "Psicología",
+              "cargo": "Profesor",
+              "catedra": "Psicología Social",
+              "area": "Psicología",
+              "tipo": "Experimental",
+              "categoria": "V",
+              "importe": 3500
+            }
+          }
+    ]
+}
